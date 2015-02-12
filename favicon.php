@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Favicon Loader
+Plugin Name: Favicon Plugin
 Plugin URI:
 Description: Adds a favicon to your page.
 interface
